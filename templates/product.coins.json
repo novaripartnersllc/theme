@@ -1,1 +1,479 @@
-{"sections":{"main":{"type":"main-product","blocks":{"product-labels":{"type":"product-labels","disabled":true,"settings":{}},"title":{"type":"title","settings":{"show_weight":false}},"vitals_reviews_stars_WC3Ntj":{"type":"shopify:\/\/apps\/vitals\/blocks\/reviews-stars\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8","settings":{}},"price":{"type":"price","settings":{"show_tax_and_shipping":false}},"buy-buttons":{"type":"buy-buttons","settings":{"show_qty_selector":true,"enable_dynamic_checkout":true,"show_pickup_availability":true,"show_gift_card_recipient":false}},"message-3":{"type":"message","settings":{"icon":"clock","title":"<p><strong>Secure Your Eagle Silver Coins Today – ⏳ Limited-Time Offer<\/strong><\/p>","close":"persistent","show_over_media":false,"visibility_duration":3,"bg_color":"#f5f5f5","text_color":"#000000"}},"divider-0":{"type":"divider","disabled":true,"settings":{"show_line":true,"spacing":"mt-8 mb-8"}},"variant-picker":{"type":"variant-picker","settings":{"selector_style":"buttons","enable_dynamic_availability":true,"dynamic_availability_downwards":false,"show_backorder_text":true,"enable_size_chart":false,"size_chart_variant":"Size","size_chart_page":""}},"divider-1":{"type":"divider","disabled":true,"settings":{"show_line":true,"spacing":"mt-8 mb-8"}},"description_cwqprm":{"type":"description","settings":{"show_as_collapsible_content":true,"icon":"none","open":true}},"collapsible-content-1":{"type":"collapsible-content","settings":{"heading":"Contact Us","icon":"email","text":"<p>For any questions please contact us by email at contact@novaripartners.com<\/p>","page":"contact","open":false}},"collapsible-content-2":{"type":"collapsible-content","settings":{"heading":"Delivery and Shipping","icon":"truck","text":"<h3><strong>Order Processing Time<\/strong><\/h3><p>Orders are processed within <strong>1–2 business days<\/strong>.<br\/><br\/>Orders placed before <strong>11:00 PM (Eastern Time)<\/strong> will be processed on the next business day.<br\/><br\/>Processing takes place <strong>Monday through Friday<\/strong>, excluding public holidays.<\/p><h3><strong>Delivery Time<\/strong><\/h3><ul><li><br\/><strong>Transit Time:<\/strong> 1–3 business days (within the United States)<br\/><\/li><li><br\/><strong>Shipping Days:<\/strong> Monday through Friday<br\/><\/li><li><br\/><strong>Estimated Total Delivery Time:<\/strong> 2<strong>–5 business days<\/strong> (including processing)<\/li><\/ul>","page":"","open":false}},"share":{"type":"share","disabled":true,"settings":{}}},"block_order":["product-labels","title","vitals_reviews_stars_WC3Ntj","price","buy-buttons","message-3","divider-0","variant-picker","divider-1","description_cwqprm","collapsible-content-1","collapsible-content-2","share"],"settings":{"stick_on_scroll":true,"sticky_atc_panel":true,"sticky_atc_position":"sticky-atc-panel--center","sticky_atc_mobile":true,"media_layout":"slider","media_size":"default","media_ratio":"1","media_crop":"none","hover_zoom":"large","enable_video_looping":false,"stacked_scroll":"change","underline_active":true,"media_thumbs":"desktop","thumb_ratio":"1","thumb_crop":"none","media_arrows":"desktop","show_slide_count":true,"border_color":"#eeeeee","bg_color":"#f4f4f4","enable_media_grouping":false,"media_grouping_option":"Color,Colour,Couleur,Farbe"}},"details":{"type":"product-details","blocks":{"custom_liquid_fHwppk":{"type":"custom-liquid","settings":{"custom_liquid":"<!-- ULTRA PREMIUM AMERICAN SILVER EAGLE PRODUCT DESCRIPTION -->\n<!-- SHOPIFY HTML SECTION - FULLY RESPONSIVE -->\n\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap\" rel=\"stylesheet\">\n\n<style>\n\n#ultra-bullion-section *{\n  margin:0;\n  padding:0;\n  box-sizing:border-box;\n}\n\n#ultra-bullion-section{\n  font-family:'Inter',sans-serif;\n  color:#111827;\n  background:transparent;\n  width:100%;\n  overflow:hidden;\n}\n\n\/* MAIN CONTAINER *\/\n\n#ultra-bullion-section .bullion-container{\n  max-width:1250px;\n  margin:0 auto;\n  background:#ffffff;\n  border:1px solid #ececec;\n  border-radius:32px;\n  overflow:hidden;\n  box-shadow:\n    0 10px 40px rgba(0,0,0,0.04);\n}\n\n\/* HERO *\/\n\n#ultra-bullion-section .hero-section{\n  position:relative;\n  padding:90px 70px;\n  background:\n  radial-gradient(circle at top right, rgba(212,175,55,0.10), transparent 30%),\n  linear-gradient(180deg,#fcfcfc 0%,#ffffff 100%);\n  border-bottom:1px solid #ececec;\n}\n\n#ultra-bullion-section .hero-badge{\n  display:inline-flex;\n  align-items:center;\n  gap:10px;\n  background:#f8f8f8;\n  border:1px solid #e7e7e7;\n  color:#344054;\n  padding:12px 20px;\n  border-radius:999px;\n  font-size:13px;\n  font-weight:800;\n  letter-spacing:1px;\n  text-transform:uppercase;\n  margin-bottom:28px;\n}\n\n#ultra-bullion-section .hero-title{\n  font-family:'Playfair Display',serif;\n  font-size:4.5rem;\n  line-height:1.05;\n  color:#0f172a;\n  margin-bottom:28px;\n  letter-spacing:-2px;\n  max-width:950px;\n}\n\n#ultra-bullion-section .hero-description{\n  font-size:1.18rem;\n  line-height:1.9;\n  color:#475467;\n  max-width:880px;\n}\n\n\/* HIGHLIGHTS *\/\n\n#ultra-bullion-section .highlight-grid{\n  display:grid;\n  grid-template-columns:repeat(4,minmax(220px,1fr));\n  gap:24px;\n  margin-top:55px;\n}\n\n#ultra-bullion-section .highlight-card{\n  position:relative;\n  background:linear-gradient(180deg,#ffffff 0%,#fafafa 100%);\n  border:1px solid rgba(0,0,0,0.06);\n  border-radius:28px;\n  padding:34px 28px;\n  transition:all 0.45s ease;\n  overflow:hidden;\n  min-height:260px;\n}\n\n#ultra-bullion-section .highlight-card::before{\n  content:\"\";\n  position:absolute;\n  top:0;\n  left:0;\n  width:100%;\n  height:4px;\n  background:linear-gradient(90deg,#caa12c,#f4dc88,#caa12c);\n}\n\n#ultra-bullion-section .highlight-card:hover{\n  transform:translateY(-8px);\n  box-shadow:\n    0 25px 45px rgba(0,0,0,0.08),\n    0 10px 25px rgba(212,175,55,0.12);\n}\n\n#ultra-bullion-section .highlight-icon{\n  width:62px;\n  height:62px;\n  border-radius:20px;\n  background:linear-gradient(135deg,#fff8e1,#ffffff);\n  border:1px solid rgba(212,175,55,0.20);\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  font-size:1.5rem;\n  margin-bottom:24px;\n  box-shadow:0 10px 25px rgba(212,175,55,0.10);\n}\n\n#ultra-bullion-section .highlight-card h3{\n  font-size:1.18rem;\n  line-height:1.4;\n  margin-bottom:14px;\n  color:#0f172a;\n  font-weight:800;\n  letter-spacing:-0.3px;\n}\n\n#ultra-bullion-section .highlight-card p{\n  font-size:0.97rem;\n  line-height:1.85;\n  color:#475467;\n}\n\n\/* CONTENT *\/\n\n#ultra-bullion-section .content{\n  padding:70px;\n}\n\n#ultra-bullion-section .section{\n  margin-bottom:75px;\n}\n\n#ultra-bullion-section .section-title{\n  position:relative;\n  font-family:'Playfair Display',serif;\n  font-size:2.5rem;\n  color:#111827;\n  margin-bottom:30px;\n  padding-bottom:18px;\n}\n\n#ultra-bullion-section .section-title::after{\n  content:\"\";\n  position:absolute;\n  left:0;\n  bottom:0;\n  width:90px;\n  height:4px;\n  border-radius:999px;\n  background:linear-gradient(90deg,#caa12c,#f1d37b);\n}\n\n#ultra-bullion-section .section p{\n  font-size:1.08rem;\n  line-height:2;\n  color:#475467;\n  margin-bottom:22px;\n}\n\n\/* TRUST SECTION *\/\n\n#ultra-bullion-section .trust-section{\n  background:\n  linear-gradient(180deg,#fcfcfc 0%,#ffffff 100%);\n  border:1px solid #ececec;\n  border-radius:30px;\n  padding:45px;\n}\n\n#ultra-bullion-section .trust-grid{\n  display:grid;\n  grid-template-columns:repeat(2,1fr);\n  gap:20px;\n  margin-top:35px;\n}\n\n#ultra-bullion-section .trust-item{\n  background:#ffffff;\n  border:1px solid #ececec;\n  border-radius:18px;\n  padding:20px;\n  font-size:1rem;\n  font-weight:600;\n  color:#344054;\n  transition:0.3s ease;\n}\n\n#ultra-bullion-section .trust-item:hover{\n  transform:translateY(-4px);\n  box-shadow:0 12px 25px rgba(0,0,0,0.05);\n}\n\n\/* SPECS *\/\n\n#ultra-bullion-section .specs-table{\n  width:100%;\n  border-collapse:collapse;\n  margin-top:35px;\n  border-radius:24px;\n  overflow:hidden;\n  border:1px solid #ececec;\n}\n\n#ultra-bullion-section .specs-table tr:nth-child(odd){\n  background:#fcfcfc;\n}\n\n#ultra-bullion-section .specs-table th{\n  width:35%;\n  padding:20px 26px;\n  text-align:left;\n  color:#111827;\n  font-size:0.98rem;\n  border-bottom:1px solid #ececec;\n  font-weight:800;\n}\n\n#ultra-bullion-section .specs-table td{\n  padding:20px 26px;\n  color:#475467;\n  font-size:0.98rem;\n  border-bottom:1px solid #ececec;\n}\n\n\/* INFO BOX *\/\n\n#ultra-bullion-section .premium-box{\n  position:relative;\n  overflow:hidden;\n  background:\n  linear-gradient(180deg,#fffdf7 0%,#ffffff 100%);\n  border:1px solid #f0df9d;\n  border-radius:28px;\n  padding:45px;\n}\n\n#ultra-bullion-section .premium-box::before{\n  content:\"\";\n  position:absolute;\n  top:0;\n  left:0;\n  width:100%;\n  height:5px;\n  background:linear-gradient(90deg,#caa12c,#f1d37b,#caa12c);\n}\n\n#ultra-bullion-section .premium-box h3{\n  font-size:2rem;\n  color:#7a5c00;\n  margin-bottom:20px;\n  font-family:'Playfair Display',serif;\n}\n\n#ultra-bullion-section .premium-box p{\n  color:#5f5f5f;\n  line-height:1.9;\n  margin-bottom:18px;\n  font-size:1rem;\n}\n\n\/* DISCLAIMER *\/\n\n#ultra-bullion-section .disclaimer{\n  margin-top:50px;\n  padding-top:35px;\n  border-top:1px solid #ececec;\n  color:#667085;\n  font-size:0.95rem;\n  line-height:1.8;\n}\n\n\/* ANIMATIONS *\/\n\n@keyframes floating{\n  0%{transform:translateY(0px);}\n  50%{transform:translateY(-6px);}\n  100%{transform:translateY(0px);}\n}\n\n#ultra-bullion-section .highlight-card:nth-child(1){\n  animation:floating 6s ease-in-out infinite;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(2){\n  animation:floating 6s ease-in-out infinite 1s;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(3){\n  animation:floating 6s ease-in-out infinite 2s;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(4){\n  animation:floating 6s ease-in-out infinite 3s;\n}\n\n\/* RESPONSIVE *\/\n\n@media(max-width:1200px){\n\n  #ultra-bullion-section .highlight-grid{\n    grid-template-columns:repeat(2,1fr);\n  }\n\n}\n\n@media(max-width:900px){\n\n  #ultra-bullion-section .hero-section{\n    padding:60px 30px;\n  }\n\n  #ultra-bullion-section .content{\n    padding:40px 25px;\n  }\n\n  #ultra-bullion-section .hero-title{\n    font-size:3rem;\n  }\n\n  #ultra-bullion-section .trust-grid{\n    grid-template-columns:1fr;\n  }\n\n}\n\n@media(max-width:700px){\n\n  #ultra-bullion-section .highlight-grid{\n    grid-template-columns:1fr;\n  }\n\n  #ultra-bullion-section .hero-title{\n    font-size:2.3rem;\n    letter-spacing:-1px;\n  }\n\n  #ultra-bullion-section .section-title{\n    font-size:1.9rem;\n  }\n\n  #ultra-bullion-section .highlight-card{\n    min-height:auto;\n  }\n\n  #ultra-bullion-section .specs-table th,\n  #ultra-bullion-section .specs-table td{\n    padding:15px;\n    font-size:0.92rem;\n  }\n\n}\n\n<\/style>\n\n<div id=\"ultra-bullion-section\">\n\n  <div class=\"bullion-container\">\n\n    <!-- HERO -->\n\n    <section class=\"hero-section\">\n\n      <div class=\"hero-badge\">\n        Trusted Global Silver Bullion Investment\n      <\/div>\n\n      <h1 class=\"hero-title\">\n        American Silver Eagle<br>\n        1 oz Brilliant Uncirculated Coin\n      <\/h1>\n\n      <p class=\"hero-description\">\n        Recognized worldwide for its purity, authenticity, and iconic design, the American Silver Eagle remains one of the most trusted silver bullion coins ever produced. Minted by the United States Mint and backed by the U.S. government for weight and purity, this investment-grade silver coin is highly sought after by collectors and precious metals investors across global markets.\n      <\/p>\n\n      <!-- HIGHLIGHTS -->\n\n      <div class=\"highlight-grid\">\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🪙<\/div>\n\n          <h3>\n            .999 Fine Silver\n          <\/h3>\n\n          <p>\n            Contains one full troy ounce of investment-grade .999 fine silver with globally recognized bullion value.\n          <\/p>\n\n        <\/div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🏛️<\/div>\n\n          <h3>\n            Official U.S. Mint Issue\n          <\/h3>\n\n          <p>\n            Produced by the United States Mint with guaranteed authenticity, purity, and legal tender status.\n          <\/p>\n\n        <\/div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">✨<\/div>\n\n          <h3>\n            Brilliant Uncirculated Condition\n          <\/h3>\n\n          <p>\n            Maintained in premium BU condition featuring original mint brilliance, sharp strike details, and strong luster.\n          <\/p>\n\n        <\/div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🔒<\/div>\n\n          <h3>\n            Secure Protective Packaging\n          <\/h3>\n\n          <p>\n            Carefully packaged to help preserve condition during storage, handling, and insured shipment transit.\n          <\/p>\n\n        <\/div>\n\n      <\/div>\n\n    <\/section>\n\n    <!-- CONTENT -->\n\n    <div class=\"content\">\n\n      <!-- OVERVIEW -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Product Overview\n        <\/h2>\n\n        <p>\n          First introduced in 1986, the American Silver Eagle has become one of the most recognized and actively traded silver bullion coins in the world. Each coin is struck using one full troy ounce of .999 fine silver and carries a face value of one U.S. dollar backed by the United States government.\n        <\/p>\n\n        <p>\n          Featuring Adolph A. Weinman’s legendary Walking Liberty design, this silver coin combines historical American artistry with globally recognized bullion value. Its trusted reputation among investors and collectors has helped establish the Silver Eagle as a cornerstone product within the international precious metals market.\n        <\/p>\n\n        <p>\n          Due to strong global demand and exceptional liquidity, American Silver Eagles are frequently chosen by investors seeking tangible silver assets for long-term wealth preservation and portfolio diversification.\n        <\/p>\n\n      <\/section>\n\n      <!-- WHY CHOOSE -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Why Investors Choose Silver Eagles\n        <\/h2>\n\n        <div class=\"trust-section\">\n\n          <p>\n            American Silver Eagles are among the most trusted bullion products worldwide due to their government-backed purity, strong global recognition, and consistent investor demand.\n          <\/p>\n\n          <div class=\"trust-grid\">\n\n            <div class=\"trust-item\">\n              ✔ Government guaranteed silver purity and weight\n            <\/div>\n\n            <div class=\"trust-item\">\n              ✔ Highly liquid and globally recognized bullion coin\n            <\/div>\n\n            <div class=\"trust-item\">\n              ✔ Preferred by long-term precious metals investors\n            <\/div>\n\n            <div class=\"trust-item\">\n              ✔ Popular for portfolio diversification strategies\n            <\/div>\n\n            <div class=\"trust-item\">\n              ✔ Trusted silver bullion product since 1986\n            <\/div>\n\n            <div class=\"trust-item\">\n              ✔ Carefully packaged and professionally handled\n            <\/div>\n\n          <\/div>\n\n        <\/div>\n\n      <\/section>\n\n      <!-- SPECS -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Specifications\n        <\/h2>\n\n        <table class=\"specs-table\">\n\n          <tr>\n            <th>Product<\/th>\n            <td>American Silver Eagle<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Condition<\/th>\n            <td>Brilliant Uncirculated (BU)<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Year<\/th>\n            <td>Random Year<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Metal Content<\/th>\n            <td>1 Troy Ounce<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Purity<\/th>\n            <td>.999 Fine Silver<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Mint<\/th>\n            <td>United States Mint<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Face Value<\/th>\n            <td>$1 USD Legal Tender<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Diameter<\/th>\n            <td>40.6 mm<\/td>\n          <\/tr>\n\n          <tr>\n            <th>Packaging<\/th>\n            <td>Protective Packaging<\/td>\n          <\/tr>\n\n          <tr>\n            <th>IRA Eligibility<\/th>\n            <td>IRA Eligible Precious Metals Product<\/td>\n          <\/tr>\n\n        <\/table>\n\n      <\/section>\n\n      <!-- PREMIUM INFO -->\n\n      <section class=\"section\">\n\n        <div class=\"premium-box\">\n\n          <h3>\n            Authentic Investment Grade Bullion\n          <\/h3>\n\n          <p>\n            Every bullion product is carefully sourced through established distribution channels and professionally inspected prior to shipment to help ensure product quality and authenticity.\n          <\/p>\n\n          <p>\n            American Silver Eagles remain one of the most trusted physical silver products due to their worldwide recognition, strong market liquidity, and government-backed specifications.\n          <\/p>\n\n          <p>\n            Product images are for illustration purposes only. Actual year, packaging style, and visual appearance may vary slightly depending on inventory availability and mint production variations.\n          <\/p>\n\n        <\/div>\n\n      <\/section>\n\n      <!-- DISCLAIMER -->\n\n      <div class=\"disclaimer\">\n\n        <strong>Disclaimer:<\/strong>\n        Precious metals investments involve market risk and may fluctuate in value based on global precious metals pricing, market conditions, and demand. Bullion products are valued primarily for their precious metal content and investment appeal.\n\n      <\/div>\n\n    <\/div>\n\n  <\/div>\n\n<\/div>"}},"highlight-text":{"type":"highlight-text","settings":{"title":"Certified American Silver Eagle","text":"<p>A Brilliant Uncirculated 99.9% fine silver coin from the U.S. Mint, guaranteed by our URBAIN Bullion Inc<strong> Certificate of Authenticity.<\/strong><\/p>"}},"tabs":{"type":"tabs","disabled":true,"settings":{"style":"tabs","open_first":false,"show_description":false,"show_reviews":false,"custom_reviews":"","show_specification":false,"spec_metafields":"","spec_right_align":false,"spec_show_empty_metafields":true,"spec_empty_field_text":"-","tab_1_title":"","tab_1_text":"","tab_1_page":"","tab_2_title":"Contact Us","tab_2_text":"","tab_2_page":"","tab_3_title":"","tab_3_text":"","tab_3_page":""}},"payment-methods":{"type":"payment-methods","settings":{"title":"Payment and security","title1":"Payment Methods","show_payment_icons":true,"text1":"<p>Your payment information is processed securely. We do not store your credit card details or have access to your credit card information.<\/p>","title2":"","text2":""}}},"block_order":["custom_liquid_fHwppk","highlight-text","tabs","payment-methods"],"settings":{}},"1629746450643786911":{"type":"areviews-section","settings":{"hide_areviews_title_rating":false,"areviews_theme_font":"inherit","areviews_stars_colors":"#f3c621","areviews_write_reviews_botton_color":"#373737"}},"product-comparison-grid":{"type":"product-comparison-grid","blocks":{"comparison-product-1":{"type":"product","settings":{"show_image":true,"show_title":true,"show_button":true}},"comparison-vendor-2":{"type":"vendor","settings":{}},"comparison-price-3":{"type":"price","settings":{}},"comparison-description-4":{"type":"description","settings":{"truncate_description":false,"words_to_show":20}}},"block_order":["comparison-product-1","comparison-vendor-2","comparison-price-3","comparison-description-4"],"disabled":true,"settings":{"heading":"Product comparison grid","text":"<p>Add content here to explain a bit about the range of products on offer and which ones may be most suitable for your customers.<\/p>","heading_align":"text-center","view_more_label":"View more","view_more_link":"","product_list":[],"empty_field_text":"-","image_ratio":"shortest","image_crop":"center","num_rows":0,"color_scheme":"none","highlight_row":false}},"collection-list":{"type":"collection-list","blocks":{"collection-list-collection-1":{"type":"collection","settings":{"collection":""}},"collection-list-collection-2":{"type":"collection","settings":{"collection":""}},"collection-list-collection-3":{"type":"collection","settings":{"collection":""}},"collection-list-collection-4":{"type":"collection","settings":{"collection":""}},"collection-list-collection-5":{"type":"collection","settings":{"collection":""}},"collection-list-collection-6":{"type":"collection","settings":{"collection":""}}},"block_order":["collection-list-collection-1","collection-list-collection-2","collection-list-collection-3","collection-list-collection-4","collection-list-collection-5","collection-list-collection-6"],"disabled":true,"settings":{"title":"Our Collections","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"medium","use_product_image":false,"circle_image":true,"show_border":true,"color_scheme":"none","full_width":true}},"image-banner":{"type":"image-banner","blocks":{"image-banner-heading":{"type":"heading","settings":{"heading":"Image banner","heading_size":"h1","heading_h1":false}},"image-banner-text":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","enlarge_text":true}},"image-banner-button":{"type":"button","settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["image-banner-heading","image-banner-text","image-banner-button"],"disabled":true,"settings":{"url":"","height_mode":"fixed","fixed_height_desktop":640,"fixed_height_mobile":480,"overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"mobile_stacked":false,"color_scheme":"white","full_width":true,"transparent_content_color":"#ffffff","tint_color":"#000000","tint_opacity":40,"prevent_animation":false}},"17685256963bf78ad0":{"type":"apps","settings":{"full_width":false}},"recommendations":{"type":"product-recommendations","settings":{"heading":"You may also like","heading_align":"text-start","layout":"grid","card_size_mobile":"small","card_size":"small","products_to_show":8}},"17685257125882adc8":{"type":"apps","settings":{"full_width":false}},"17537469085daa3b08":{"type":"apps","disabled":true,"settings":{"full_width":false}},"17538314127af3403c":{"type":"apps","disabled":true,"settings":{"full_width":false}},"175383478027725d66":{"type":"apps","disabled":true,"settings":{"full_width":false}},"1768523922a07a3a60":{"type":"apps","disabled":true,"settings":{"full_width":false}},"176852403713cdf66a":{"type":"apps","disabled":true,"settings":{"full_width":false}},"1768524096cc10ae0f":{"type":"apps","disabled":true,"settings":{"full_width":false}},"1768524364d3ff392a":{"type":"apps","disabled":true,"settings":{"full_width":false}}},"order":["main","details","1629746450643786911","product-comparison-grid","collection-list","image-banner","17685256963bf78ad0","recommendations","17685257125882adc8","17537469085daa3b08","17538314127af3403c","175383478027725d66","1768523922a07a3a60","176852403713cdf66a","1768524096cc10ae0f","1768524364d3ff392a"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product-labels": {
+          "type": "product-labels",
+          "disabled": true,
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_weight": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "message-3": {
+          "type": "message",
+          "settings": {
+            "icon": "clock",
+            "title": "<p><strong>Secure Your Eagle Silver Coins Today – ⏳ Limited-Time Offer</strong></p>",
+            "close": "persistent",
+            "show_over_media": false,
+            "visibility_duration": 3,
+            "bg_color": "#f5f5f5",
+            "text_color": "#000000"
+          }
+        },
+        "divider-0": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "dynamic_availability_downwards": false,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "divider-1": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "description_cwqprm": {
+          "type": "description",
+          "settings": {
+            "show_as_collapsible_content": true,
+            "icon": "none",
+            "open": true
+          }
+        },
+        "collapsible-content-1": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Contact Us",
+            "icon": "email",
+            "text": "<p>For any questions please contact us by email at contact@novaripartners.com</p>",
+            "page": "contact",
+            "open": false
+          }
+        },
+        "collapsible-content-2": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Delivery and Shipping",
+            "icon": "truck",
+            "text": "<h3><strong>Order Processing Time</strong></h3><p>Orders are processed within <strong>1–2 business days</strong>.<br/><br/>Orders placed before <strong>11:00 PM (Eastern Time)</strong> will be processed on the next business day.<br/><br/>Processing takes place <strong>Monday through Friday</strong>, excluding public holidays.</p><h3><strong>Delivery Time</strong></h3><ul><li><br/><strong>Transit Time:</strong> 1–3 business days (within the United States)<br/></li><li><br/><strong>Shipping Days:</strong> Monday through Friday<br/></li><li><br/><strong>Estimated Total Delivery Time:</strong> 2<strong>–5 business days</strong> (including processing)</li></ul>",
+            "page": "",
+            "open": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "product-labels",
+        "title",
+        "price",
+        "buy-buttons",
+        "message-3",
+        "divider-0",
+        "variant-picker",
+        "divider-1",
+        "description_cwqprm",
+        "collapsible-content-1",
+        "collapsible-content-2",
+        "share"
+      ],
+      "settings": {
+        "stick_on_scroll": true,
+        "sticky_atc_panel": true,
+        "sticky_atc_position": "sticky-atc-panel--center",
+        "sticky_atc_mobile": true,
+        "media_layout": "slider",
+        "media_size": "default",
+        "media_ratio": "1",
+        "media_crop": "none",
+        "hover_zoom": "large",
+        "enable_video_looping": false,
+        "stacked_scroll": "change",
+        "underline_active": true,
+        "media_thumbs": "desktop",
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "media_arrows": "desktop",
+        "show_slide_count": true,
+        "border_color": "#eeeeee",
+        "bg_color": "#f4f4f4",
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "details": {
+      "type": "product-details",
+      "blocks": {
+        "custom_liquid_fHwppk": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<!-- ULTRA PREMIUM AMERICAN SILVER EAGLE PRODUCT DESCRIPTION -->\n<!-- SHOPIFY HTML SECTION - FULLY RESPONSIVE -->\n\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap\" rel=\"stylesheet\">\n\n<style>\n\n#ultra-bullion-section *{\n  margin:0;\n  padding:0;\n  box-sizing:border-box;\n}\n\n#ultra-bullion-section{\n  font-family:'Inter',sans-serif;\n  color:#111827;\n  background:transparent;\n  width:100%;\n  overflow:hidden;\n}\n\n/* MAIN CONTAINER */\n\n#ultra-bullion-section .bullion-container{\n  max-width:1250px;\n  margin:0 auto;\n  background:#ffffff;\n  border:1px solid #ececec;\n  border-radius:32px;\n  overflow:hidden;\n  box-shadow:\n    0 10px 40px rgba(0,0,0,0.04);\n}\n\n/* HERO */\n\n#ultra-bullion-section .hero-section{\n  position:relative;\n  padding:90px 70px;\n  background:\n  radial-gradient(circle at top right, rgba(212,175,55,0.10), transparent 30%),\n  linear-gradient(180deg,#fcfcfc 0%,#ffffff 100%);\n  border-bottom:1px solid #ececec;\n}\n\n#ultra-bullion-section .hero-badge{\n  display:inline-flex;\n  align-items:center;\n  gap:10px;\n  background:#f8f8f8;\n  border:1px solid #e7e7e7;\n  color:#344054;\n  padding:12px 20px;\n  border-radius:999px;\n  font-size:13px;\n  font-weight:800;\n  letter-spacing:1px;\n  text-transform:uppercase;\n  margin-bottom:28px;\n}\n\n#ultra-bullion-section .hero-title{\n  font-family:'Playfair Display',serif;\n  font-size:4.5rem;\n  line-height:1.05;\n  color:#0f172a;\n  margin-bottom:28px;\n  letter-spacing:-2px;\n  max-width:950px;\n}\n\n#ultra-bullion-section .hero-description{\n  font-size:1.18rem;\n  line-height:1.9;\n  color:#475467;\n  max-width:880px;\n}\n\n/* HIGHLIGHTS */\n\n#ultra-bullion-section .highlight-grid{\n  display:grid;\n  grid-template-columns:repeat(4,minmax(220px,1fr));\n  gap:24px;\n  margin-top:55px;\n}\n\n#ultra-bullion-section .highlight-card{\n  position:relative;\n  background:linear-gradient(180deg,#ffffff 0%,#fafafa 100%);\n  border:1px solid rgba(0,0,0,0.06);\n  border-radius:28px;\n  padding:34px 28px;\n  transition:all 0.45s ease;\n  overflow:hidden;\n  min-height:260px;\n}\n\n#ultra-bullion-section .highlight-card::before{\n  content:\"\";\n  position:absolute;\n  top:0;\n  left:0;\n  width:100%;\n  height:4px;\n  background:linear-gradient(90deg,#caa12c,#f4dc88,#caa12c);\n}\n\n#ultra-bullion-section .highlight-card:hover{\n  transform:translateY(-8px);\n  box-shadow:\n    0 25px 45px rgba(0,0,0,0.08),\n    0 10px 25px rgba(212,175,55,0.12);\n}\n\n#ultra-bullion-section .highlight-icon{\n  width:62px;\n  height:62px;\n  border-radius:20px;\n  background:linear-gradient(135deg,#fff8e1,#ffffff);\n  border:1px solid rgba(212,175,55,0.20);\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  font-size:1.5rem;\n  margin-bottom:24px;\n  box-shadow:0 10px 25px rgba(212,175,55,0.10);\n}\n\n#ultra-bullion-section .highlight-card h3{\n  font-size:1.18rem;\n  line-height:1.4;\n  margin-bottom:14px;\n  color:#0f172a;\n  font-weight:800;\n  letter-spacing:-0.3px;\n}\n\n#ultra-bullion-section .highlight-card p{\n  font-size:0.97rem;\n  line-height:1.85;\n  color:#475467;\n}\n\n/* CONTENT */\n\n#ultra-bullion-section .content{\n  padding:70px;\n}\n\n#ultra-bullion-section .section{\n  margin-bottom:75px;\n}\n\n#ultra-bullion-section .section-title{\n  position:relative;\n  font-family:'Playfair Display',serif;\n  font-size:2.5rem;\n  color:#111827;\n  margin-bottom:30px;\n  padding-bottom:18px;\n}\n\n#ultra-bullion-section .section-title::after{\n  content:\"\";\n  position:absolute;\n  left:0;\n  bottom:0;\n  width:90px;\n  height:4px;\n  border-radius:999px;\n  background:linear-gradient(90deg,#caa12c,#f1d37b);\n}\n\n#ultra-bullion-section .section p{\n  font-size:1.08rem;\n  line-height:2;\n  color:#475467;\n  margin-bottom:22px;\n}\n\n/* TRUST SECTION */\n\n#ultra-bullion-section .trust-section{\n  background:\n  linear-gradient(180deg,#fcfcfc 0%,#ffffff 100%);\n  border:1px solid #ececec;\n  border-radius:30px;\n  padding:45px;\n}\n\n#ultra-bullion-section .trust-grid{\n  display:grid;\n  grid-template-columns:repeat(2,1fr);\n  gap:20px;\n  margin-top:35px;\n}\n\n#ultra-bullion-section .trust-item{\n  background:#ffffff;\n  border:1px solid #ececec;\n  border-radius:18px;\n  padding:20px;\n  font-size:1rem;\n  font-weight:600;\n  color:#344054;\n  transition:0.3s ease;\n}\n\n#ultra-bullion-section .trust-item:hover{\n  transform:translateY(-4px);\n  box-shadow:0 12px 25px rgba(0,0,0,0.05);\n}\n\n/* SPECS */\n\n#ultra-bullion-section .specs-table{\n  width:100%;\n  border-collapse:collapse;\n  margin-top:35px;\n  border-radius:24px;\n  overflow:hidden;\n  border:1px solid #ececec;\n}\n\n#ultra-bullion-section .specs-table tr:nth-child(odd){\n  background:#fcfcfc;\n}\n\n#ultra-bullion-section .specs-table th{\n  width:35%;\n  padding:20px 26px;\n  text-align:left;\n  color:#111827;\n  font-size:0.98rem;\n  border-bottom:1px solid #ececec;\n  font-weight:800;\n}\n\n#ultra-bullion-section .specs-table td{\n  padding:20px 26px;\n  color:#475467;\n  font-size:0.98rem;\n  border-bottom:1px solid #ececec;\n}\n\n/* INFO BOX */\n\n#ultra-bullion-section .premium-box{\n  position:relative;\n  overflow:hidden;\n  background:\n  linear-gradient(180deg,#fffdf7 0%,#ffffff 100%);\n  border:1px solid #f0df9d;\n  border-radius:28px;\n  padding:45px;\n}\n\n#ultra-bullion-section .premium-box::before{\n  content:\"\";\n  position:absolute;\n  top:0;\n  left:0;\n  width:100%;\n  height:5px;\n  background:linear-gradient(90deg,#caa12c,#f1d37b,#caa12c);\n}\n\n#ultra-bullion-section .premium-box h3{\n  font-size:2rem;\n  color:#7a5c00;\n  margin-bottom:20px;\n  font-family:'Playfair Display',serif;\n}\n\n#ultra-bullion-section .premium-box p{\n  color:#5f5f5f;\n  line-height:1.9;\n  margin-bottom:18px;\n  font-size:1rem;\n}\n\n/* DISCLAIMER */\n\n#ultra-bullion-section .disclaimer{\n  margin-top:50px;\n  padding-top:35px;\n  border-top:1px solid #ececec;\n  color:#667085;\n  font-size:0.95rem;\n  line-height:1.8;\n}\n\n/* ANIMATIONS */\n\n@keyframes floating{\n  0%{transform:translateY(0px);}\n  50%{transform:translateY(-6px);}\n  100%{transform:translateY(0px);}\n}\n\n#ultra-bullion-section .highlight-card:nth-child(1){\n  animation:floating 6s ease-in-out infinite;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(2){\n  animation:floating 6s ease-in-out infinite 1s;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(3){\n  animation:floating 6s ease-in-out infinite 2s;\n}\n\n#ultra-bullion-section .highlight-card:nth-child(4){\n  animation:floating 6s ease-in-out infinite 3s;\n}\n\n/* RESPONSIVE */\n\n@media(max-width:1200px){\n\n  #ultra-bullion-section .highlight-grid{\n    grid-template-columns:repeat(2,1fr);\n  }\n\n}\n\n@media(max-width:900px){\n\n  #ultra-bullion-section .hero-section{\n    padding:60px 30px;\n  }\n\n  #ultra-bullion-section .content{\n    padding:40px 25px;\n  }\n\n  #ultra-bullion-section .hero-title{\n    font-size:3rem;\n  }\n\n  #ultra-bullion-section .trust-grid{\n    grid-template-columns:1fr;\n  }\n\n}\n\n@media(max-width:700px){\n\n  #ultra-bullion-section .highlight-grid{\n    grid-template-columns:1fr;\n  }\n\n  #ultra-bullion-section .hero-title{\n    font-size:2.3rem;\n    letter-spacing:-1px;\n  }\n\n  #ultra-bullion-section .section-title{\n    font-size:1.9rem;\n  }\n\n  #ultra-bullion-section .highlight-card{\n    min-height:auto;\n  }\n\n  #ultra-bullion-section .specs-table th,\n  #ultra-bullion-section .specs-table td{\n    padding:15px;\n    font-size:0.92rem;\n  }\n\n}\n\n</style>\n\n<div id=\"ultra-bullion-section\">\n\n  <div class=\"bullion-container\">\n\n    <!-- HERO -->\n\n    <section class=\"hero-section\">\n\n      <div class=\"hero-badge\">\n        Trusted Global Silver Bullion Investment\n      </div>\n\n      <h1 class=\"hero-title\">\n        American Silver Eagle<br>\n        1 oz Brilliant Uncirculated Coin\n      </h1>\n\n      <p class=\"hero-description\">\n        Recognized worldwide for its purity, authenticity, and iconic design, the American Silver Eagle remains one of the most trusted silver bullion coins ever produced. Minted by the United States Mint and backed by the U.S. government for weight and purity, this investment-grade silver coin is highly sought after by collectors and precious metals investors across global markets.\n      </p>\n\n      <!-- HIGHLIGHTS -->\n\n      <div class=\"highlight-grid\">\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🪙</div>\n\n          <h3>\n            .999 Fine Silver\n          </h3>\n\n          <p>\n            Contains one full troy ounce of investment-grade .999 fine silver with globally recognized bullion value.\n          </p>\n\n        </div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🏛️</div>\n\n          <h3>\n            Official U.S. Mint Issue\n          </h3>\n\n          <p>\n            Produced by the United States Mint with guaranteed authenticity, purity, and legal tender status.\n          </p>\n\n        </div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">✨</div>\n\n          <h3>\n            Brilliant Uncirculated Condition\n          </h3>\n\n          <p>\n            Maintained in premium BU condition featuring original mint brilliance, sharp strike details, and strong luster.\n          </p>\n\n        </div>\n\n        <div class=\"highlight-card\">\n\n          <div class=\"highlight-icon\">🔒</div>\n\n          <h3>\n            Secure Protective Packaging\n          </h3>\n\n          <p>\n            Carefully packaged to help preserve condition during storage, handling, and insured shipment transit.\n          </p>\n\n        </div>\n\n      </div>\n\n    </section>\n\n    <!-- CONTENT -->\n\n    <div class=\"content\">\n\n      <!-- OVERVIEW -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Product Overview\n        </h2>\n\n        <p>\n          First introduced in 1986, the American Silver Eagle has become one of the most recognized and actively traded silver bullion coins in the world. Each coin is struck using one full troy ounce of .999 fine silver and carries a face value of one U.S. dollar backed by the United States government.\n        </p>\n\n        <p>\n          Featuring Adolph A. Weinman’s legendary Walking Liberty design, this silver coin combines historical American artistry with globally recognized bullion value. Its trusted reputation among investors and collectors has helped establish the Silver Eagle as a cornerstone product within the international precious metals market.\n        </p>\n\n        <p>\n          Due to strong global demand and exceptional liquidity, American Silver Eagles are frequently chosen by investors seeking tangible silver assets for long-term wealth preservation and portfolio diversification.\n        </p>\n\n      </section>\n\n      <!-- WHY CHOOSE -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Why Investors Choose Silver Eagles\n        </h2>\n\n        <div class=\"trust-section\">\n\n          <p>\n            American Silver Eagles are among the most trusted bullion products worldwide due to their government-backed purity, strong global recognition, and consistent investor demand.\n          </p>\n\n          <div class=\"trust-grid\">\n\n            <div class=\"trust-item\">\n              ✔ Government guaranteed silver purity and weight\n            </div>\n\n            <div class=\"trust-item\">\n              ✔ Highly liquid and globally recognized bullion coin\n            </div>\n\n            <div class=\"trust-item\">\n              ✔ Preferred by long-term precious metals investors\n            </div>\n\n            <div class=\"trust-item\">\n              ✔ Popular for portfolio diversification strategies\n            </div>\n\n            <div class=\"trust-item\">\n              ✔ Trusted silver bullion product since 1986\n            </div>\n\n            <div class=\"trust-item\">\n              ✔ Carefully packaged and professionally handled\n            </div>\n\n          </div>\n\n        </div>\n\n      </section>\n\n      <!-- SPECS -->\n\n      <section class=\"section\">\n\n        <h2 class=\"section-title\">\n          Specifications\n        </h2>\n\n        <table class=\"specs-table\">\n\n          <tr>\n            <th>Product</th>\n            <td>American Silver Eagle</td>\n          </tr>\n\n          <tr>\n            <th>Condition</th>\n            <td>Brilliant Uncirculated (BU)</td>\n          </tr>\n\n          <tr>\n            <th>Year</th>\n            <td>Random Year</td>\n          </tr>\n\n          <tr>\n            <th>Metal Content</th>\n            <td>1 Troy Ounce</td>\n          </tr>\n\n          <tr>\n            <th>Purity</th>\n            <td>.999 Fine Silver</td>\n          </tr>\n\n          <tr>\n            <th>Mint</th>\n            <td>United States Mint</td>\n          </tr>\n\n          <tr>\n            <th>Face Value</th>\n            <td>$1 USD Legal Tender</td>\n          </tr>\n\n          <tr>\n            <th>Diameter</th>\n            <td>40.6 mm</td>\n          </tr>\n\n          <tr>\n            <th>Packaging</th>\n            <td>Protective Packaging</td>\n          </tr>\n\n          <tr>\n            <th>IRA Eligibility</th>\n            <td>IRA Eligible Precious Metals Product</td>\n          </tr>\n\n        </table>\n\n      </section>\n\n      <!-- PREMIUM INFO -->\n\n      <section class=\"section\">\n\n        <div class=\"premium-box\">\n\n          <h3>\n            Authentic Investment Grade Bullion\n          </h3>\n\n          <p>\n            Every bullion product is carefully sourced through established distribution channels and professionally inspected prior to shipment to help ensure product quality and authenticity.\n          </p>\n\n          <p>\n            American Silver Eagles remain one of the most trusted physical silver products due to their worldwide recognition, strong market liquidity, and government-backed specifications.\n          </p>\n\n          <p>\n            Product images are for illustration purposes only. Actual year, packaging style, and visual appearance may vary slightly depending on inventory availability and mint production variations.\n          </p>\n\n        </div>\n\n      </section>\n\n      <!-- DISCLAIMER -->\n\n      <div class=\"disclaimer\">\n\n        <strong>Disclaimer:</strong>\n        Precious metals investments involve market risk and may fluctuate in value based on global precious metals pricing, market conditions, and demand. Bullion products are valued primarily for their precious metal content and investment appeal.\n\n      </div>\n\n    </div>\n\n  </div>\n\n</div>"
+          }
+        },
+        "highlight-text": {
+          "type": "highlight-text",
+          "settings": {
+            "title": "Certified American Silver Eagle",
+            "text": "<p>A Brilliant Uncirculated 99.9% fine silver coin from the U.S. Mint, guaranteed by our URBAIN Bullion Inc<strong> Certificate of Authenticity.</strong></p>"
+          }
+        },
+        "tabs": {
+          "type": "tabs",
+          "disabled": true,
+          "settings": {
+            "style": "tabs",
+            "open_first": false,
+            "show_description": false,
+            "show_reviews": false,
+            "custom_reviews": "",
+            "show_specification": false,
+            "spec_metafields": "",
+            "spec_right_align": false,
+            "spec_show_empty_metafields": true,
+            "spec_empty_field_text": "-",
+            "tab_1_title": "",
+            "tab_1_text": "",
+            "tab_1_page": "",
+            "tab_2_title": "Contact Us",
+            "tab_2_text": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_text": "",
+            "tab_3_page": ""
+          }
+        },
+        "payment-methods": {
+          "type": "payment-methods",
+          "settings": {
+            "title": "Payment and security",
+            "title1": "Payment Methods",
+            "show_payment_icons": true,
+            "text1": "<p>Your payment information is processed securely. We do not store your credit card details or have access to your credit card information.</p>",
+            "title2": "",
+            "text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_fHwppk",
+        "highlight-text",
+        "tabs",
+        "payment-methods"
+      ],
+      "settings": {}
+    },
+    "1629746450643786911": {
+      "type": "areviews-section",
+      "settings": {
+        "hide_areviews_title_rating": false,
+        "areviews_theme_font": "inherit",
+        "areviews_stars_colors": "#f3c621",
+        "areviews_write_reviews_botton_color": "#373737"
+      }
+    },
+    "product-comparison-grid": {
+      "type": "product-comparison-grid",
+      "blocks": {
+        "comparison-product-1": {
+          "type": "product",
+          "settings": {
+            "show_image": true,
+            "show_title": true,
+            "show_button": true
+          }
+        },
+        "comparison-vendor-2": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "comparison-price-3": {
+          "type": "price",
+          "settings": {}
+        },
+        "comparison-description-4": {
+          "type": "description",
+          "settings": {
+            "truncate_description": false,
+            "words_to_show": 20
+          }
+        }
+      },
+      "block_order": [
+        "comparison-product-1",
+        "comparison-vendor-2",
+        "comparison-price-3",
+        "comparison-description-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Product comparison grid",
+        "text": "<p>Add content here to explain a bit about the range of products on offer and which ones may be most suitable for your customers.</p>",
+        "heading_align": "text-center",
+        "view_more_label": "View more",
+        "view_more_link": "",
+        "product_list": [],
+        "empty_field_text": "-",
+        "image_ratio": "shortest",
+        "image_crop": "center",
+        "num_rows": 0,
+        "color_scheme": "none",
+        "highlight_row": false
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-list-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-list-collection-1",
+        "collection-list-collection-2",
+        "collection-list-collection-3",
+        "collection-list-collection-4",
+        "collection-list-collection-5",
+        "collection-list-collection-6"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Collections",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "medium",
+        "use_product_image": false,
+        "circle_image": true,
+        "show_border": true,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "image-banner-heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "image-banner-text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "image-banner-button": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "image-banner-heading",
+        "image-banner-text",
+        "image-banner-button"
+      ],
+      "disabled": true,
+      "settings": {
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 640,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "17685256963bf78ad0": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_align": "text-start",
+        "layout": "grid",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8
+      }
+    },
+    "17685257125882adc8": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "17537469085daa3b08": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "17538314127af3403c": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "175383478027725d66": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1768523922a07a3a60": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "176852403713cdf66a": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1768524096cc10ae0f": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1768524364d3ff392a": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "details",
+    "1629746450643786911",
+    "product-comparison-grid",
+    "collection-list",
+    "image-banner",
+    "17685256963bf78ad0",
+    "recommendations",
+    "17685257125882adc8",
+    "17537469085daa3b08",
+    "17538314127af3403c",
+    "175383478027725d66",
+    "1768523922a07a3a60",
+    "176852403713cdf66a",
+    "1768524096cc10ae0f",
+    "1768524364d3ff392a"
+  ]
+}
