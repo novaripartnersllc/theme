@@ -1,0 +1,9 @@
+
+        <div class="zn-content product">
+          {% assign productKey = 'zeno-product-' | append: product.id %}
+          <link rel="stylesheet" href="{{ productKey | append: '.css' | asset_url }}">
+          {% include productKey %}
+          <script src="{{ productKey | append: '.js' | asset_url }}"></script>
+        </div>
+      
+  <div id='Areviewsapp' class='page-full'>{%  render 'aliexpress_reviews' , product: product %}</div>
